@@ -41,7 +41,7 @@ MONITORED_PAIRS = [
     "ADA/USD", "SOL/USD", "DOGE/USD", "DOT/USD", "LTC/USD"
 ]
 
-CHECK_INTERVAL_MINUTES = 60          # период проверки сигналов
+CHECK_INTERVAL_MINUTES = 5          # период проверки сигналов
 SIGNAL_DURATION_MINUTES = 5          # длительность торговой позиции (5 минут)
 CANDLE_INTERVAL = "5min"             # таймфрейм свечей для анализа
 OUTPUT_SIZE = 100                    # количество свечей
