@@ -3,4 +3,4 @@ requests
 pandas
 numpy
 python-telegram-bot
-pybit
+python-deriv-api
